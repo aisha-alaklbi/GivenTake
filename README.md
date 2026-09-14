@@ -92,4 +92,23 @@ This repository preserves the original implementation as part of my software dev
 
 ## Screenshots
 
-Screenshots of the main system interfaces and user flows will be added here.
+### Home Page
+![Home Page](Screenshots/home-page.png)
+
+### Product Sections
+![Product Sections](Screenshots/sections-page.png)
+
+### Products
+![Products Page](Screenshots/products-page.png)
+
+### Product Details - Customer View
+![Product Details - Customer View](Screenshots/product-details-customer.png)
+
+### Product Details - Owner View
+![Product Details - Owner View](Screenshots/product-details-owner.png)
+
+### Add Product
+![Add Product](Screenshots/add-product.png)
+
+### Instant Chat
+![Instant Chat](Screenshots/chat-page.png)
