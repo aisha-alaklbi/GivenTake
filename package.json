@@ -1,0 +1,23 @@
+{
+  "name": "giventake.com",
+  "version": "1.0.0",
+  "description": "Custome wordpress theme for giventake.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iBazzo",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@sweetalert2/theme-wordpress-admin": "^5.0.12",
+    "bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49",
+    "resolve-url-loader": "^5.0.0",
+    "rtlcss": "^4.0.0",
+    "sass": "^1.54.4",
+    "sass-loader": "^12.1.0"
+  }
+}
